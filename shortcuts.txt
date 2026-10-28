@@ -1,0 +1,3 @@
+IRacing
+C:\Program Files (x86)\Rhinode LLC\Trading Paints\Trading Paints.exe
+S:\SteamLibrary\steamapps\common\iRacing\uiiRacingUI.exe
